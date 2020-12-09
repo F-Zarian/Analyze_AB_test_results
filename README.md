@@ -26,4 +26,20 @@ The datasets for this project, were provided by Udacity as part of the Data Anal
 - There is not sufficient evidence to predict that the new page results in more conversions than the old page.
 - There is not enough evidence to suggest that country of the user has an effect on the conversion rate.
 
+# Resources
+
+### Mastering Dates and Timestamps in Pandas (and Python in general)
+https://towardsdatascience.com/mastering-dates-and-timestamps-in-pandas-and-python-in-general-5b8c6edcc50c
+
+### Extracting days from a numpy.timedelta64 value and calculating the duration
+https://stackoverflow.com/questions/18215317/extracting-days-from-a-numpy-timedelta64-value
+
+### Join columns of another DataFrame
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+
+### The Advantages & Disadvantages of a Multiple Regression Model
+https://sciencing.com/advantages-disadvantages-multiple-regression-model-12070171.html
+
+### What is a p-value and how do you calculate it?
+https://rebeccaebarnes.github.io/2018/05/01/what-is-a-p-value
 
