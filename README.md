@@ -30,15 +30,11 @@ The datasets for this project, were provided by Udacity as part of the Data Anal
 
 ### [Mastering Dates and Timestamps in Pandas (and Python in general)](https://towardsdatascience.com/mastering-dates-and-timestamps-in-pandas-and-python-in-general-5b8c6edcc50c)
 
-### Extracting days from a numpy.timedelta64 value and calculating the duration
-https://stackoverflow.com/questions/18215317/extracting-days-from-a-numpy-timedelta64-value
+### [Extracting days from a numpy.timedelta64 value and calculating the duration](https://stackoverflow.com/questions/18215317/extracting-days-from-a-numpy-timedelta64-value)
 
-### Join columns of another DataFrame
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+### [Join columns of another DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html)
 
-### The Advantages & Disadvantages of a Multiple Regression Model
-https://sciencing.com/advantages-disadvantages-multiple-regression-model-12070171.html
+### [The Advantages & Disadvantages of a Multiple Regression Model](https://sciencing.com/advantages-disadvantages-multiple-regression-model-12070171.html)
 
-### What is a p-value and how do you calculate it?
-https://rebeccaebarnes.github.io/2018/05/01/what-is-a-p-value
+### [What is a p-value and how do you calculate it?](https://rebeccaebarnes.github.io/2018/05/01/what-is-a-p-value)
 
