@@ -1,4 +1,4 @@
-# Analyze_ab_test_results
+# Analyze A/B Test Results
 This project was completed as part of Udacity's Data Analyst Nanodegree Program certification in December 2020.
 
 # Summary
